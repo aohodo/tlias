@@ -4,7 +4,7 @@ spring:
     url: jdbc:mysql://localhost:3306/tlias_mp
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: hcy020330
+    password: hcy020330@root
 
 # 配置Spring事务管理的debug级别日志
 logging:
